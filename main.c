@@ -1,7 +1,7 @@
 #include <stdlib>
 
 int main(){
-
-printf("mostafa ali");
+int x=5;
+int y=3;
 
 }
